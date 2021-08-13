@@ -1,3 +1,3 @@
-cat /etc/passwd | grep flag01
-
-flag01 = 42hDRfypTqqnw
+# Use of John The Ripper
+john --incremental /etc/passwd
+flag01 = abcdefg
