@@ -1,0 +1,21 @@
+# first get the token in hexa:
+xxd token
+
+# into python script for decoding
+import sys
+
+arr = bytearray.fromhex("66 34 6b 6d 6d 36 70 7c 3d 82 7f 70 82 6e 83 82 44 42 83 44 75 7b 7f 8c 89 0a")
+arr = str(arr)
+
+res = ""
+for i in range(len(arr)):
+    try:
+        res += (chr(ord(arr[i]) - i))
+    except:
+        continue
+print(res)
+
+# you obtain this flag
+flag09 = f3iji1ju5yuevaus41q1afiuq
+
+level09 = s5cAJpM8ev6XHw998pRWG728z
